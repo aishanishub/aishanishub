@@ -29,7 +29,7 @@
 <h3>📊 Most Used Languages</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishanidhar&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishanishub&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <hr>
