@@ -69,7 +69,7 @@
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.png" alt="langchain" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Google_Gemini_logo.svg/512px-Google_Gemini_logo.svg.png" alt="google-gemini" width="40" height="40"/>
-📝 Notes:
+
 </p>
 
 <hr>
