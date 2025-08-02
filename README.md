@@ -65,10 +65,10 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="ssms" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
   <!-- GenAI Tools -->
-  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="openai" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" alt="openai" width="40" height="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.png" alt="langchain" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Google_Gemini_logo.svg/512px-Google_Gemini_logo.svg.png" alt="google-gemini" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/173481188?s=200&v=4" alt="google-gemini" width="40" height="40"/>
 
 </p>
 
